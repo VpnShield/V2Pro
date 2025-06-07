@@ -1,10 +1,10 @@
 {
-"Title": "🛑  شروع اختلالات سراسری  🛑",
-"Description": "شما عضو کانال تلگرام پشتیبان فیلترشکن نیستید ، به همین دلیل بزودی اتصال شما قطع میشود ، فورا    👇🏻عضو کانال شوید",
-"Link": "tg://join?invite=vVGZdN2kYxdlMTc0",
-"ColorWave": "#FFD600",
-"Color": "#FFA500",
-"ColorWaveTwo": "#FDD835",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "6162534703",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": " نمیخوام ",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
